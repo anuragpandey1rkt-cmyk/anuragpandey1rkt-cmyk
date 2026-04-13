@@ -17,7 +17,7 @@
 # 👋 Hey there, I'm Anurag Pandey
 
 🚀 **AI Developer | Problem Solver | Tech Explorer**
-
+💡 I build AI-powered solutions that solve real-world problems.
 ---
 
 ## 🧠 About Me
@@ -27,7 +27,16 @@
 * ⚡ Passionate about solving real-world problems
 
 ---
+## ⚡ Currently Working On
+- 🚀 Building **EcoWise-AI (AI Sustainability Assistant)**
+- 📚 Learning **System Design & Advanced ML**
+- 💡 Exploring real-world AI applications
 
+## 🎯 Tech Focus
+- 🤖 Artificial Intelligence & Machine Learning  
+- 🌍 Sustainable Tech Solutions  
+- 🌐 Full Stack Development
+  
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -75,21 +84,51 @@
 </p>
 
 ---
-
+## 🤝 Open Source & Collaboration
+- 👯 Open to collaborating on AI & Web projects  
+- 🌍 Interested in impactful real-world solutions  
 ## 🏆 Achievements
 
-* 🥇 Completed IBM AI Internship
+* 🥇 Completed MICROSOFT & IBM AI Internship
 * 🚀 Built **EcoWise-AI**
 * 💡 900+ Contributions in a Year
 * 🔥 Active Open Source Contributor
 
 ---
-
 ## 🚀 Featured Projects
 
-* 🌱 **EcoWise-AI** → AI-powered sustainability assistant
-* 🤖 **AI Study Buddy** → Smart learning assistant
-* 👁️ **OpenCV Object Detection** → Real-time detection system
+### 🌱 EcoWise-AI (Flagship Project)
+
+> AI-powered sustainability assistant
+> 🔧 Tech: Python, TensorFlow, OpenCV
+> ✨ Features: Waste detection, AI chatbot
+> 🌍 Impact: Promotes eco-friendly decisions
+
+---
+
+### 🤖 AI Study Buddy
+
+> Smart AI-powered learning assistant
+> 🔧 Tech: Python
+> ✨ Features: Personalized study help, AI responses
+
+---
+
+### 👁️ OpenCV Object Detection
+
+> Real-time object detection system
+> 🔧 Tech: OpenCV, TensorFlow
+> ✨ Features: Image recognition, live detection
+
+---
+
+### 💡 Finnsage
+
+> Modern web-based application
+> 🔧 Tech: TypeScript
+> ✨ Features: Clean UI, scalable structure
+
+---
 
 ---
 
