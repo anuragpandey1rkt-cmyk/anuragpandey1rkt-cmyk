@@ -56,9 +56,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anuragpandey1rkt-cmyk&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  &cache_seconds=1800
 </p>
-
+&cache_seconds=1800
 ---
 
 ## 🔥 Contribution Streak
@@ -73,9 +72,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragpandey1rkt-cmyk&layout=compact&theme=tokyonight&cache_seconds=1800" />
-  &cache_seconds=1800
 </p>
-
+&cache_seconds=1800
 ---
 
 ## 📈 Activity Graph
