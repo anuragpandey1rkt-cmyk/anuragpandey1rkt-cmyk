@@ -68,7 +68,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anuragpandey1rkt-cmyk&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragpandey1rkt-cmyk&theme=tokyonight" />
 </p>
 
 ---
