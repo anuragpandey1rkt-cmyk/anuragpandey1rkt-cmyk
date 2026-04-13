@@ -55,7 +55,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anuragpandey1rkt-cmyk&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anuragpandey1rkt-cmyk&show_icons=true&theme=tokyonight&v=1" />
 </p>
 ---
 
@@ -70,7 +70,7 @@
 ## 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuragpandey1rkt-cmyk&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuragpandey1rkt-cmyk&layout=compact&theme=tokyonight&v=1" />
 </p>
 ---
 
