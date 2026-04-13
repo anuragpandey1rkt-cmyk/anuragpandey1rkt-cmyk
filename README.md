@@ -1,11 +1,9 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anuragpandey1rkt-cmyk/anuragpandey1rkt-cmyk/main/banner.png" />
-</p>
+
 
 <!-- 🔥 Animated Banner -->
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGlkbDdjbGp3ZXU4ZHltdzQwbDlteDl6OWg0ajl6aGtyYWJtaG0xZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/anuragpandey1rkt-cmyk/anuragpandey1rkt-cmyk/main/banner.png" width="100%" />
 </p>
 
 <!-- ✨ Typing Animation -->
