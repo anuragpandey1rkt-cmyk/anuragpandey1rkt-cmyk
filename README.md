@@ -1,10 +1,17 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anuragpandey1rkt-cmyk/anuragpandey1rkt-cmyk/main/banner.png" />
+</p>
+
 <!-- 🔥 Animated Banner -->
+
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGlkbDdjbGp3ZXU4ZHltdzQwbDlteDl6OWg0ajl6aGtyYWJtaG0xZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif" width="100%" />
 </p>
 
+<!-- ✨ Typing Animation -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Anurag+Pandey;AI+Developer;Building+Impactful+Tech;Open+Source+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Anurag+Pandey;AI+Developer;Building+Impactful+Tech;Open+Source+Enthusiast" />
 </p>
 
 ---
@@ -18,7 +25,7 @@
 ## 🧠 About Me
 
 * 🔭 Working on **EcoWise-AI & AI Projects**
-* 🌱 Learning **Machine Learning, System Design**
+* 🌱 Learning **Machine Learning & System Design**
 * ⚡ Passionate about solving real-world problems
 
 ---
@@ -26,8 +33,15 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anurag-pandey-31215b388/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:anuragpandey1rkt@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/anurag-pandey-31215b388/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:anuragpandey1rkt@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/anuragpandey1rkt-cmyk" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 ---
@@ -40,11 +54,26 @@
 
 ---
 
-## 📊 GitHub Stats (Live)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anuragpandey1rkt-cmyk&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragpandey1rkt-cmyk&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragpandey1rkt-cmyk&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -67,25 +96,18 @@
 
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragpandey1rkt-cmyk&theme=tokyonight" />
-</p>
+* 🥇 Completed IBM AI Internship
+* 🚀 Built **EcoWise-AI**
+* 💡 900+ Contributions in a Year
+* 🔥 Active Open Source Contributor
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌱 EcoWise-AI
-
-> AI-powered sustainability assistant
-
-### 🤖 AI Study Buddy
-
-> Smart learning assistant
-
-### 👁️ OpenCV Object Detection
-
-> Real-time object detection
+* 🌱 **EcoWise-AI** → AI-powered sustainability assistant
+* 🤖 **AI Study Buddy** → Smart learning assistant
+* 👁️ **OpenCV Object Detection** → Real-time detection system
 
 ---
 
