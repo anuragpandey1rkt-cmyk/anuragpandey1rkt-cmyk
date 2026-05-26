@@ -40,7 +40,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anurag-pandey-31215b388/" target="_blank">
+  <a href="https://www.linkedin.com/in/buildwithanurag/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:anuragpandey1rkt@gmail.com">
