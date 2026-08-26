@@ -133,52 +133,109 @@ I like building beyond the prototype:
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="65%" valign="top">
 
-## 🌱 EcoWise-AI
+## 🪐 Stelsion
 
-### `AI × Sustainability`
+### `AI × ASTRONOMY × DEEP LEARNING`
 
-An AI-powered sustainability assistant exploring:
+> **AI-powered exoplanet discovery from noisy stellar light curves.**
 
-* ♻️ Waste detection
-* 👁️ Computer vision
-* 🤖 AI assistance
-* 🌍 Sustainable recommendations
+Stelsion is an end-to-end platform for detecting potential exoplanet transit signals from **Kepler & TESS light-curve data** using deep learning and explainable AI.
 
-**Stack**
+### 🔬 Core Systems
 
-`Python` `TensorFlow` `OpenCV`
+* 🌌 Exoplanet transit detection
+* 📡 Kepler & TESS light-curve analysis
+* 🧹 Signal preprocessing & denoising
+* 🧠 1D CNN + Residual Blocks
+* 👁️ Multi-Head Self-Attention
+* 🔍 1D Grad-CAM explainability
+* 📊 Attention & activation visualization
+* 🚨 False-positive analysis
+* 🛰️ NASA-inspired glassmorphic dashboard
 
-**STATUS:** 🟢 ACTIVE
+### ⚙️ Stack
+
+`Python` `PyTorch` `FastAPI` `Next.js` `SQLite` `Docker`
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/XAI-00F5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF9D?style=for-the-badge&labelColor=0D1117"/>
+</p>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="35%" valign="top">
 
 ## 🧠 ResearchMind-AI
 
-### `AI × Research`
+### `AI × RESEARCH`
 
-An AI system focused on research-oriented workflows and intelligent information processing.
+> **Exploring intelligent research workflows with AI.**
 
-**Focus**
+Currently exploring how AI can assist with:
 
 * 🔎 Research discovery
 * 📚 Information exploration
 * 🧠 AI-assisted analysis
 * ✍️ Research-oriented generation
 
-**Stack**
+### ⚙️ Stack
 
 `Python` `AI`
 
-**STATUS:** 🟣 EXPLORING
+<p align="center">
+
+<img src="https://img.shields.io/badge/STATUS-EXPLORING-9B5CFF?style=for-the-badge&labelColor=0D1117"/>
+
+</p>
 
 </td>
 
 </tr>
 </table>
+
+---
+
+### 🛰️ `STELSION.MISSION.PIPELINE`
+
+<p align="center">
+
+`🌌 LIGHT CURVE`
+
+ → 
+
+`🧹 PREPROCESS`
+
+ → 
+
+`🧠 DEEP LEARNING`
+
+ → 
+
+`👁️ ATTENTION`
+
+ → 
+
+`🔍 XAI`
+
+ → 
+
+`🪐 EXOPLANET CANDIDATE`
+
+</p>
+
+> **Mission:** Turn noisy astronomical signals into interpretable exoplanet candidates.
 
 ---
 
