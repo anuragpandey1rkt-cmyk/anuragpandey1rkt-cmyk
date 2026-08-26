@@ -3,183 +3,250 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Anurag+Pandey;AI+Developer+%7C+Builder+%7C+Problem+Solver;Turning+ideas+into+working+systems.;Building+things+that+should+exist." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=900&lines=anurag%40github%3A~%24+whoami;AI+Developer+%7C+Builder+%7C+Problem+Solver;anurag%40github%3A~%24+./build_something_useful;anurag%40github%3A~%24+echo+%22Code.+Build.+Impact.%22" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuragpandey1rkt-cmyk">
-    <img src="https://komarev.com/ghpvc/?username=anuragpandey1rkt-cmyk&label=PROFILE+VIEWS&color=00F7FF&style=flat-square" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=anuragpandey1rkt-cmyk&label=VISITORS&color=00ff9c&style=flat-square" />
 </p>
 
 ---
 
-# `whoami`
-
 ```text
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│   █████╗ ███╗   ██╗██╗   ██╗██████╗  █████╗  ██████╗                       │
+│  ██╔══██╗████╗  ██║██║   ██║██╔══██╗██╔══██╗██╔════╝                       │
+│  ███████║██╔██╗ ██║██║   ██║██████╔╝███████║██║                            │
+│  ██╔══██║██║╚██╗██║██║   ██║██╔══██╗██╔══██║██║                            │
+│  ██║  ██║██║ ╚████║╚██████╔╝██████╔╝██║  ██║╚██████╗                       │
+│  ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝                       │
+│                                                                              │
+│                    AI DEVELOPER / BUILDER / EXPLORER                       │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+```
+
+```bash
+$ whoami
+
 Anurag Pandey
+
+$ role
 
 AI Developer
 Problem Solver
-Builder
-Open Source Enthusiast
+Tech Explorer
+Open Source Contributor
 
-I don't just want to learn technology.
-I want to build with it.
+$ mission
 
-Currently exploring:
-→ Artificial Intelligence
-→ Machine Learning
-→ Computer Vision
-→ Full Stack Development
-→ System Design
-→ Sustainable Technology
+Build useful technology.
+Solve real problems.
+Keep learning.
+Ship things.
 ```
 
 ---
 
-## `> about_me`
-
-I'm an AI-focused developer interested in building **practical technology for real-world problems**.
-
-I like taking an idea from:
-
-`problem → research → prototype → system → product`
-
-rather than stopping at a notebook or a demo.
-
-Currently working on **AI, sustainability, computer vision and intelligent web applications**.
+# `~/about`
 
 ```text
-CURRENT STATUS
-───────────────
-Learning        → Advanced ML + System Design
-Building        → AI-powered applications
-Exploring       → Computer Vision + Full Stack
-Contributing    → Open Source
-Goal            → Build technology with actual impact
+┌─[ ABOUT ME ]─────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│  I build AI-powered systems focused on real-world problems.                 │
+│                                                                              │
+│  I enjoy taking ideas from:                                                 │
+│                                                                              │
+│      problem → research → prototype → system → product                     │
+│                                                                              │
+│  I don't want to just train models.                                         │
+│  I want to understand how they become useful products.                      │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# `> currently_building`
-
-### 🌱 EcoWise-AI
-
-**AI-powered sustainability assistant**
-
-A project focused on using AI to help people make more environmentally responsible decisions.
+# `~/status`
 
 ```text
-AI
-├── Waste Detection
+┌─[ SYSTEM STATUS ]────────────────────────────────────────────────────────────┐
+│                                                                              │
+│  USER        : anurag                                                        │
+│  ROLE        : AI Developer                                                   │
+│  STATUS      : ONLINE ●                                                      │
+│                                                                              │
+│  LEARNING    : Machine Learning / System Design                              │
+│  BUILDING    : EcoWise-AI                                                    │
+│  EXPLORING   : Computer Vision / GenAI / Full Stack                         │
+│  CONTRIBUTING: Open Source                                                   │
+│                                                                              │
+│  CURRENT GOAL                                                            │
+│  ────────────                                                                │
+│  Turn interesting ideas into useful systems.                                 │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# `~/stack`
+
+```bash
+$ ls ~/skills
+
+AI/
+├── Artificial Intelligence
+├── Machine Learning
 ├── Computer Vision
-├── Intelligent Chatbot
-└── Sustainability Recommendations
+├── TensorFlow
+└── OpenCV
+
+LANGUAGES/
+├── Python
+├── Java
+├── C
+├── JavaScript
+└── TypeScript
+
+WEB/
+├── HTML
+├── CSS
+└── Full Stack Development
+
+TOOLS/
+├── Git
+├── GitHub
+└── VS Code
 ```
 
-**Stack:** Python • TensorFlow • OpenCV • AI/ML
-
-> Not building another "AI demo".
-> Building something that can actually be useful.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,ts,tensorflow,opencv,git,github,vscode" />
+</p>
 
 ---
 
-# `> things_i_work_with`
+# `~/projects`
 
-### AI / ML
+```bash
+$ ./list_projects
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
-</p>
+[01] EcoWise-AI
+     ├── type    : AI / Sustainability
+     ├── stack   : Python / TensorFlow / OpenCV
+     ├── focus   : Waste Detection + AI Assistant
+     └── status  : ACTIVE ●
 
-### Development
+[02] AI Study Buddy
+     ├── type    : AI / Education
+     ├── stack   : Python
+     ├── focus   : Personalized AI Learning
+     └── status  : BUILT ✓
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,c,html,css,js,ts" />
-</p>
+[03] OpenCV Object Detection
+     ├── type    : Computer Vision
+     ├── stack   : OpenCV / TensorFlow
+     ├── focus   : Real-Time Detection
+     └── status  : BUILT ✓
 
-### Tools
+[04] Finnsage
+     ├── type    : Web Application
+     ├── stack   : TypeScript
+     ├── focus   : Modern Web Experience
+     └── status  : BUILDING ⚙
+```
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+---
+
+# `~/featured`
+
+## `01 :: EcoWise-AI`
 
 ```text
-INTERESTS
-─────────
-Artificial Intelligence
-Machine Learning
-Computer Vision
-Generative AI
-Full Stack Development
-System Design
-Sustainable Technology
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│  ECO WISE - AI                                                               │
+│  ────────────────────────────────────────────────────────────────────────    │
+│                                                                              │
+│  AI-powered sustainability assistant.                                       │
+│                                                                              │
+│  > Waste Detection                                                          │
+│  > Computer Vision                                                          │
+│  > AI Chatbot                                                               │
+│  > Sustainability Recommendations                                           │
+│                                                                              │
+│  STACK                                                                       │
+│  Python · TensorFlow · OpenCV                                                │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
 
----
+## `02 :: AI Study Buddy`
 
-# `> featured_projects`
+```text
+AI-powered learning assistant.
 
-## 🌱 EcoWise-AI
-
-> **AI-powered sustainability assistant**
-
-Waste detection + intelligent assistance + sustainability-focused recommendations.
-
-`Python` `TensorFlow` `OpenCV` `AI`
-
----
-
-## 🤖 AI Study Buddy
-
-> **An AI-powered learning companion**
-
-Designed to make studying more interactive through personalized AI assistance.
+INPUT
+  ↓
+Student Question
+  ↓
+AI Processing
+  ↓
+Personalized Response
+  ↓
+Better Learning
+```
 
 `Python` `AI`
 
 ---
 
-## 👁️ OpenCV Object Detection
+## `03 :: OpenCV Object Detection`
 
-> **Real-time computer vision system**
-
-A practical object detection project exploring image recognition and live detection.
+```text
+CAMERA
+   │
+   ▼
+IMAGE FRAME
+   │
+   ▼
+OBJECT DETECTION
+   │
+   ▼
+IDENTIFIED OBJECTS
+   │
+   ▼
+REAL-TIME OUTPUT
+```
 
 `OpenCV` `TensorFlow` `Computer Vision`
 
 ---
 
-## 💡 Finnsage
-
-> **Modern web application**
-
-A clean, scalable web-based project focused on building a better user experience.
-
-`TypeScript` `Web Development`
-
----
-
-# `> achievements`
+# `~/achievements`
 
 ```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│  🥇 Microsoft , IBM & Hindalco Internship   │
-│                                             │
-│  🚀 Built EcoWise-AI                        │
-│                                             │
-│  💡 900+ GitHub Contributions / Year        │
-│                                             │
-│  🔥 Active Open Source Contributor          │
-│                                             │
-└─────────────────────────────────────────────┘
+$ cat achievements.txt
+
+[✓] Microsoft & IBM AI Internship
+[✓] Built EcoWise-AI
+[✓] 900+ GitHub Contributions / Year
+[✓] Active Open Source Contributor
+[✓] Building AI-powered real-world solutions
 ```
 
 ---
 
-# `> github_activity`
+# `~/github`
+
+```text
+┌─[ GITHUB ACTIVITY ]──────────────────────────────────────────────────────────┐
+│                                                                              │
+│                    CONTRIBUTION MONITOR                                      │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragpandey1rkt-cmyk&theme=tokyonight&hide_border=true" />
@@ -191,7 +258,16 @@ A clean, scalable web-based project focused on building a better user experience
 
 ---
 
-# `> contribution_snake`
+# `~/contributions`
+
+```bash
+$ ./snake --animate
+
+Loading contribution history...
+████████████████████████████████████ 100%
+
+STATUS: CONTRIBUTING ●
+```
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/anuragpandey1rkt-cmyk/anuragpandey1rkt-cmyk/output/github-contribution-grid-snake.svg" />
@@ -199,82 +275,116 @@ A clean, scalable web-based project focused on building a better user experience
 
 ---
 
-# `> open_source`
+# `~/open-source`
 
 ```text
-I like working with people who are curious,
-build fast, question assumptions,
-and care about making useful things.
-
-Open to:
-→ AI / ML collaborations
-→ Computer Vision projects
-→ Full Stack projects
-→ Open Source
-→ Hackathons
-→ Interesting ideas
+┌─[ COLLABORATION ]────────────────────────────────────────────────────────────┐
+│                                                                              │
+│  Looking for people who:                                                    │
+│                                                                              │
+│    → Build instead of just talking                                          │
+│    → Question assumptions                                                   │
+│    → Enjoy solving difficult problems                                       │
+│    → Care about useful technology                                           │
+│                                                                              │
+│  OPEN TO                                                                     │
+│                                                                              │
+│    AI / ML Projects                                                         │
+│    Computer Vision                                                          │
+│    Full Stack Development                                                   │
+│    Open Source                                                              │
+│    Hackathons                                                               │
+│    Interesting Ideas                                                        │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# `> connect`
+# `~/connect`
+
+```bash
+$ cat ~/.socials
+
+LinkedIn  →  https://www.linkedin.com/in/buildwithanurag/
+GitHub    →  https://github.com/anuragpandey1rkt-cmyk
+Email     →  anuragpandey1rkt@gmail.com
+```
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/buildwithanurag/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-00FF9C?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
 <a href="mailto:anuragpandey1rkt@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-00FF9C?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
 <a href="https://github.com/anuragpandey1rkt-cmyk">
-  <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-00FF9C?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </p>
 
 ---
 
-# `> raw_mode`
+# `~/mindset`
 
 ```text
-I don't have everything figured out.
-
-I'm learning.
-I'm breaking things.
-I'm rebuilding them.
-I'm shipping anyway.
-
-The goal isn't to look like a developer.
-
-The goal is to become one.
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│  I don't have everything figured out.                                       │
+│                                                                              │
+│  I learn.                                                                   │
+│  I experiment.                                                              │
+│  I break things.                                                            │
+│  I rebuild them.                                                            │
+│  I ship.                                                                    │
+│                                                                              │
+│  The goal isn't to look like a developer.                                   │
+│                                                                              │
+│  The goal is to become one.                                                 │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## `> currently_thinking_about`
+# `~/thoughts`
 
-```text
-How can AI solve problems that actually matter?
+```bash
+$ ./current_thoughts
 
-How do we turn prototypes into reliable systems?
+> How can AI solve problems that actually matter?
 
-How can technology be useful outside the screen?
+> How do prototypes become reliable systems?
 
-How much can one person build if they keep shipping?
+> How can technology be useful outside the screen?
+
+> What can I build if I keep shipping?
 ```
 
 ---
 
-<p align="center">
-
-### `BUILD → BREAK → LEARN → REPEAT`
-
-**Code. Build. Impact.**
-
-</p>
+```text
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│  anurag@github:~$ ./build                                                    │
+│                                                                              │
+│  ██████╗ ██╗   ██╗██╗██╗     ██████╗                                        │
+│  ██╔══██╗██║   ██║██║██║     ██╔══██╗                                       │
+│  ██████╔╝██║   ██║██║██║     ██║  ██║                                       │
+│  ██╔══██╗██║   ██║██║██║     ██║  ██║                                       │
+│  ██║  ██║╚██████╔╝██║███████╗██████╔╝                                       │
+│  ╚═╝  ╚═╝ ╚═════╝ ╚═╝╚══════╝╚═════╝                                       │
+│                                                                              │
+│              BUILD  →  BREAK  →  LEARN  →  REPEAT                          │
+│                                                                              │
+│                    "Code. Build. Impact."                                   │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+```
 
 <p align="center">
   <i>Made with curiosity, caffeine & way too many Git commits.</i>
