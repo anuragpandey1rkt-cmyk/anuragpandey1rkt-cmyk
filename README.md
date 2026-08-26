@@ -1,221 +1,251 @@
+<!--
+  ANURAG PANDEY // CYBERPUNK MATRIX PROFILE
+  Theme: Dark Glassmorphism × Matrix × Cyberpunk
+-->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/anuragpandey1rkt-cmyk/anuragpandey1rkt-cmyk/main/banner.png" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2600&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=INITIALIZING+ANURAG.OS...;IDENTITY%3A+ANURAG+PANDEY;AI+DEVELOPER+%2F+SYSTEM+BUILDER;MISSION%3A+BUILD+TECH+THAT+MATTERS;SYSTEM+STATUS%3A+ONLINE+%E2%96%A0" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2600&pause=700&color=00FF88&center=true&vCenter=true&width=900&lines=ACCESSING+ANURAG.NODE...;IDENTITY%3A+ANURAG+PANDEY;AI+DEVELOPER+%2F+SYSTEM+BUILDER;BUILDING+INTELLIGENT+SYSTEMS;STATUS%3A+ONLINE+%E2%97%89" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anuragpandey1rkt-cmyk&label=VISUAL+SCANS&color=00F7FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=anuragpandey1rkt-cmyk&label=NEURAL+CONNECTIONS&color=00ff88&style=for-the-badge" />
 </p>
 
 ---
 
-```text id="8qj8i4"
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                         ◢ ANURAG // CORE SYSTEM ◣                          ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║   IDENT        ANURAG PANDEY                                               ║
-║   CLASS        AI DEVELOPER                                                ║
-║   SPECIALTY    MACHINE LEARNING / COMPUTER VISION                          ║
-║   MODE         BUILD                                                        ║
-║   STATUS       ● ONLINE                                                     ║
-║                                                                              ║
-║   ────────────────────────────────────────────────────────────────────────   ║
-║                                                                              ║
-║   PRIMARY OBJECTIVE                                                         ║
-║   Build intelligent systems that solve real-world problems.                 ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-# `◢ SYSTEM // PROFILE`
-
-```text id="uj3t9v"
+```text
 ┌──────────────────────────────────────────────────────────────────────────────┐
-│  [01] IDENTITY                                                               │
-├──────────────────────────────────────────────────────────────────────────────┤
 │                                                                              │
-│  AI Developer • Problem Solver • Tech Explorer                              │
+│   ██████╗ ███╗   ██╗ █████╗ ██╗   ██╗ ██████╗                             │
+│  ██╔═══██╗████╗  ██║██╔══██╗██║   ██║██╔════╝                             │
+│  ██║   ██║██╔██╗ ██║███████║██║   ██║██║                                  │
+│  ██║   ██║██║╚██╗██║██╔══██║██║   ██║██║                                  │
+│  ╚██████╔╝██║ ╚████║██║  ██║╚██████╔╝╚██████╗                             │
+│   ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝                             │
 │                                                                              │
-│  I build AI-powered systems with a focus on practical, real-world           │
-│  applications.                                                              │
-│                                                                              │
-│  My workflow:                                                               │
-│                                                                              │
-│       PROBLEM                                                               │
-│          ↓                                                                  │
-│       RESEARCH                                                              │
-│          ↓                                                                  │
-│       PROTOTYPE                                                             │
-│          ↓                                                                  │
-│       ENGINEER                                                              │
-│          ↓                                                                  │
-│       DEPLOY                                                                │
-│          ↓                                                                  │
-│       IMPACT                                                                │
+│                   DIGITAL BUILDER // AI DEVELOPER                           │
 │                                                                              │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
----
+# `// BOOT_SEQUENCE`
 
-# `◢ SYSTEM // TELEMETRY`
+```bash
+$ connect anurag.node
 
-```text id="w4e2jq"
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                         LIVE TELEMETRY                                      ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  CORE STATUS        ████████████████████  ONLINE                            ║
-║                                                                              ║
-║  AI SYSTEMS         ██████████████████░░  ACTIVE                            ║
-║  ML RESEARCH        ███████████████░░░░░  ACTIVE                            ║
-║  COMPUTER VISION    ██████████████░░░░░░  EXPLORING                         ║
-║  SYSTEM DESIGN      ███████████░░░░░░░░░  LEARNING                         ║
-║  FULL STACK         ███████████████░░░░░  BUILDING                         ║
-║                                                                              ║
-║  CURRENT MISSION    ECO-WISE AI                                             ║
-║  CURRENT MODE       RESEARCH + BUILD                                        ║
-║  OPEN SOURCE        ENABLED                                                 ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+[████████████████████████████████] 100%
+
+> identity verified
+> neural interface connected
+> developer profile loaded
+> AI modules detected
+> open-source protocols enabled
+
+SYSTEM STATUS :: ONLINE ◉
 ```
 
 ---
 
-# `◢ MISSION // CURRENT`
+# `// IDENTITY`
 
-## `MISSION 001 — ECOWISE-AI`
-
-```text id="3tx9jb"
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║                         🌱 ECO-WISE AI                                      ║
-║                                                                              ║
-║  OBJECTIVE                                                                   ║
-║  ─────────                                                                   ║
-║  Build an AI-powered sustainability assistant.                              ║
-║                                                                              ║
-║  SYSTEM MODULES                                                              ║
-║  ──────────────                                                              ║
-║                                                                              ║
-║  [01] WASTE DETECTION                                                       ║
-║  [02] COMPUTER VISION                                                       ║
-║  [03] AI CHATBOT                                                            ║
-║  [04] SUSTAINABILITY RECOMMENDATIONS                                       ║
-║                                                                              ║
-║  TECHNOLOGY                                                                  ║
-║  ──────────                                                                  ║
-║  Python • TensorFlow • OpenCV                                               ║
-║                                                                              ║
-║  MISSION STATUS                                                              ║
-║  █████████████████░░░  ACTIVE                                               ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+```text
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│  USER                                                                       │
+│  ────                                                                       │
+│  Anurag Pandey                                                              │
+│                                                                              │
+│  CLASS                                                                      │
+│  ─────                                                                      │
+│  AI Developer / Problem Solver / Builder                                    │
+│                                                                              │
+│  PRIMARY DOMAIN                                                             │
+│  ─────────────                                                              │
+│  Artificial Intelligence                                                    │
+│  Machine Learning                                                           │
+│  Computer Vision                                                            │
+│  Full Stack Development                                                     │
+│                                                                              │
+│  DIRECTIVE                                                                  │
+│  ────────                                                                   │
+│  Build technology that solves real problems.                                │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
 ```
-
-> **Mission objective:** use AI to make sustainable decisions easier and more accessible.
 
 ---
 
-# `◢ ARCHIVE // PROJECTS`
+# `// ABOUT`
 
-```text id="9qzzd4"
-┌──────────────────────────────────────────────────────────────────────────────┐
-│ PROJECT ARCHIVE                                                              │
+> I build AI-powered systems with a focus on **practical, real-world applications**.
+
+I'm interested in what happens after the prototype works — how models become **reliable systems, useful products and scalable technology**.
+
+```text
+PROBLEM
+   │
+   ▼
+RESEARCH
+   │
+   ▼
+EXPERIMENT
+   │
+   ▼
+ENGINEER
+   │
+   ▼
+DEPLOY
+   │
+   ▼
+IMPACT
+```
+
+---
+
+# `// LIVE_TELEMETRY`
+
+```text
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                         SYSTEM TELEMETRY                                    │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │                                                                              │
-│  [002] AI STUDY BUDDY                                                       │
-│        TYPE     : Artificial Intelligence                                   │
-│        PURPOSE  : Personalized learning assistance                          │
-│        STACK    : Python                                                     │
-│        STATUS   : ✓ OPERATIONAL                                             │
+│  CORE                ████████████████████  ONLINE                           │
+│  AI                  ██████████████████░░  ACTIVE                           │
+│  MACHINE LEARNING    ███████████████░░░░░  LEARNING                         │
+│  COMPUTER VISION     ██████████████░░░░░░  EXPLORING                        │
+│  SYSTEM DESIGN       ███████████░░░░░░░░░  LEARNING                         │
+│  FULL STACK          ███████████████░░░░░  BUILDING                         │
 │                                                                              │
-│  ────────────────────────────────────────────────────────────────────────    │
+│  CURRENT PROJECT     EcoWise-AI                                             │
+│  OPEN SOURCE         ENABLED                                                │
+│  BUILD MODE          ACTIVE                                                 │
 │                                                                              │
-│  [003] OPENCV OBJECT DETECTION                                              │
-│        TYPE     : Computer Vision                                           │
-│        PURPOSE  : Real-time object detection                               │
-│        STACK    : OpenCV / TensorFlow                                       │
-│        STATUS   : ✓ OPERATIONAL                                             │
+╰──────────────────────────────────────────────────────────────────────────────╯
+```
+
+---
+
+# `// ACTIVE_PROJECT`
+
+## `01 :: ECOWISE-AI`
+
+```text
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║                            ECO-WISE AI                                      ║
+║                                                                              ║
+║  CLASS       : AI / SUSTAINABILITY                                          ║
+║  STATUS      : ● ACTIVE                                                     ║
+║                                                                              ║
+║  OBJECTIVE                                                                  ║
+║  ─────────                                                                  ║
+║  Build an AI-powered sustainability assistant capable of helping users     ║
+║  make more environmentally responsible decisions.                          ║
+║                                                                              ║
+║  MODULES                                                                    ║
+║  ───────                                                                    ║
+║  [01] Waste Detection                                                       ║
+║  [02] Computer Vision                                                       ║
+║  [03] AI Assistant                                                          ║
+║  [04] Sustainability Recommendations                                       ║
+║                                                                              ║
+║  STACK                                                                      ║
+║  ─────                                                                      ║
+║  Python / TensorFlow / OpenCV                                               ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# `// PROJECT_MATRIX`
+
+```text
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ PROJECT_ID      TYPE                    STATUS                              │
+├──────────────────────────────────────────────────────────────────────────────┤
 │                                                                              │
-│  ────────────────────────────────────────────────────────────────────────    │
+│ ECOWISE-AI      AI / Sustainability     ● ACTIVE                            │
 │                                                                              │
-│  [004] FINNSAGE                                                             │
-│        TYPE     : Web Application                                           │
-│        PURPOSE  : Modern scalable web experience                            │
-│        STACK    : TypeScript                                                 │
-│        STATUS   : ⚙ DEVELOPMENT                                             │
+│ AI-STUDY-BUDDY  AI / Education          ✓ BUILT                             │
+│                                                                              │
+│ OPENCV-DETECT   Computer Vision         ✓ BUILT                             │
+│                                                                              │
+│ FINNSAGE        Web Application         ⚙ BUILDING                          │
 │                                                                              │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
+### `AI-STUDY-BUDDY`
+
+Personalized AI-powered learning assistant.
+
+`Python` `AI`
+
+### `OPENCV-OBJECT-DETECTION`
+
+Real-time computer vision and object recognition system.
+
+`OpenCV` `TensorFlow`
+
+### `FINNSAGE`
+
+Modern web-based application focused on a clean and scalable experience.
+
+`TypeScript`
+
 ---
 
-# `◢ TECHNOLOGY // MATRIX`
+# `// TECH_STACK`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,ts,tensorflow,opencv,git,github,vscode" />
 </p>
 
-```text id="0o9kzr"
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                              TECH MATRIX                                    │
-├──────────────────────────────────────────────────────────────────────────────┤
+```text
+╭──────────────────────────────────────────────────────────────────────────────╮
 │                                                                              │
-│  ARTIFICIAL INTELLIGENCE                                                     │
-│  ├── Machine Learning                                                       │
-│  ├── Computer Vision                                                        │
-│  ├── TensorFlow                                                             │
-│  └── OpenCV                                                                 │
+│  AI / ML                                                                    │
+│  ──────                                                                     │
+│  Python • TensorFlow • OpenCV • Machine Learning                            │
 │                                                                              │
-│  PROGRAMMING                                                                 │
-│  ├── Python                                                                 │
-│  ├── Java                                                                   │
-│  ├── C                                                                      │
-│  ├── JavaScript                                                              │
-│  └── TypeScript                                                             │
+│  PROGRAMMING                                                                │
+│  ───────────                                                                │
+│  Python • Java • C • JavaScript • TypeScript                                │
 │                                                                              │
-│  ENGINEERING                                                                 │
-│  ├── Full Stack Development                                                 │
-│  ├── Git / GitHub                                                            │
-│  └── System Design                                                           │
+│  WEB                                                                        │
+│  ───                                                                        │
+│  HTML • CSS • JavaScript • Full Stack                                       │
 │                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
+│  ENGINEERING                                                                │
+│  ───────────                                                                │
+│  Git • GitHub • VS Code • System Design                                     │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-# `◢ ACHIEVEMENTS // LOG`
+# `// ACHIEVEMENT_LOG`
 
-```text id="c0sp1p"
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                           ACHIEVEMENT LOG                                   ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  [✓] MICROSOFT + IBM AI INTERNSHIP                                          ║
-║                                                                              ║
-║  [✓] ECOWISE-AI BUILT                                                       ║
-║                                                                              ║
-║  [✓] 900+ GITHUB CONTRIBUTIONS / YEAR                                      ║
-║                                                                              ║
-║  [✓] ACTIVE OPEN SOURCE CONTRIBUTOR                                         ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+```text
+$ decrypt achievements.db
+
+[✓] MICROSOFT + IBM AI INTERNSHIP
+[✓] ECOWISE-AI
+[✓] 900+ GITHUB CONTRIBUTIONS / YEAR
+[✓] OPEN SOURCE CONTRIBUTOR
+[✓] AI PROJECTS
+[✓] REAL-WORLD PROBLEM SOLVING
 ```
 
 ---
 
-# `◢ GITHUB // ACTIVITY`
-
-```text id="1yq6yc"
-SYSTEM CHANNEL :: GITHUB TELEMETRY
-SIGNAL       :: CONTRIBUTION DATA
-STATUS       :: RECEIVING...
-```
+# `// GITHUB_NETWORK`
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragpandey1rkt-cmyk&theme=tokyonight&hide_border=true" />
@@ -227,23 +257,16 @@ STATUS       :: RECEIVING...
 
 ---
 
-# `◢ CONTRIBUTIONS // NEURAL MAP`
+# `// CONTRIBUTION_MATRIX`
 
-```text id="7x5vax"
-      CONTRIBUTION NETWORK INITIALIZING...
+```text
+$ render --mode=neural-grid
 
-             ◉
-            /|\
-           / | \
-          ◉  ◉  ◉
-         / \ | / \
-        ◉   ◉   ◉
-         \  |  /
-          \ | /
-           \|/
-            ◉
+INITIALIZING CONTRIBUTION MATRIX...
+████████████████████████████████ 100%
 
-      STATUS :: CONTRIBUTING
+SIGNAL DETECTED
+CONTRIBUTION CHANNEL :: ACTIVE
 ```
 
 <p align="center">
@@ -252,111 +275,134 @@ STATUS       :: RECEIVING...
 
 ---
 
-# `◢ NETWORK // CONNECTIONS`
+# `// OPEN_SOURCE_PROTOCOL`
 
-```text id="j9xxsn"
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                              NETWORK                                        ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  LINKEDIN     →  buildwithanurag                                            ║
-║  GITHUB       →  anuragpandey1rkt-cmyk                                      ║
-║  EMAIL        →  anuragpandey1rkt@gmail.com                                ║
-║                                                                              ║
-║  COLLABORATION CHANNELS                                                     ║
-║                                                                              ║
-║  → AI / ML                                                                  ║
-║  → Computer Vision                                                          ║
-║  → Full Stack                                                               ║
-║  → Open Source                                                              ║
-║  → Hackathons                                                               ║
-║  → Experimental Projects                                                    ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/buildwithanurag/">
-<img src="https://img.shields.io/badge/LINKEDIN-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
-
-<a href="mailto:anuragpandey1rkt@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-FF00E5?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/anuragpandey1rkt-cmyk">
-<img src="https://img.shields.io/badge/GITHUB-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</p>
-
----
-
-# `◢ CORE // PHILOSOPHY`
-
-```text id="efv7a8"
+```text
 ╭──────────────────────────────────────────────────────────────────────────────╮
 │                                                                              │
-│  BUILD                                                                    │
-│  ─────                                                                     │
-│  Turn ideas into systems.                                                  │
+│  COLLABORATION PROTOCOL                                                     │
 │                                                                              │
-│  BREAK                                                                    │
-│  ─────                                                                     │
-│  Find what doesn't work.                                                   │
+│  ACCEPTING CONNECTIONS FROM DEVELOPERS INTERESTED IN:                       │
 │                                                                              │
-│  LEARN                                                                    │
-│  ─────                                                                     │
-│  Understand why.                                                           │
+│  → Artificial Intelligence                                                  │
+│  → Machine Learning                                                          │
+│  → Computer Vision                                                           │
+│  → Full Stack Development                                                    │
+│  → Open Source                                                               │
+│  → Hackathons                                                                │
+│  → Experimental Technology                                                   │
 │                                                                              │
-│  REPEAT                                                                   │
-│  ──────                                                                    │
-│  Build something better.                                                   │
+│  REQUIREMENT                                                                │
+│  ───────────                                                                │
+│  Build > Talk                                                               │
 │                                                                              │
 ╰──────────────────────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-# `◢ FUTURE // OBJECTIVES`
+# `// NETWORK`
 
-```text id="e4b7rj"
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│  [01] BUILD MORE REAL-WORLD AI SYSTEMS                                     │
-│                                                                              │
-│  [02] GO DEEPER INTO MACHINE LEARNING                                      │
-│                                                                              │
-│  [03] MASTER SYSTEM DESIGN                                                  │
-│                                                                              │
-│  [04] EXPLORE GENERATIVE AI                                                 │
-│                                                                              │
-│  [05] CONTRIBUTE TO OPEN SOURCE                                             │
-│                                                                              │
-│  [06] BUILD SOMETHING PEOPLE ACTUALLY USE                                  │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
+<p align="center">
+
+<a href="https://www.linkedin.com/in/buildwithanurag/">
+<img src="https://img.shields.io/badge/LINKEDIN-00FF88?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+<a href="mailto:anuragpandey1rkt@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-00D9FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+
+<a href="https://github.com/anuragpandey1rkt-cmyk">
+<img src="https://img.shields.io/badge/GITHUB-BD00FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+```text
+LINKEDIN
+https://www.linkedin.com/in/buildwithanurag/
+
+GITHUB
+https://github.com/anuragpandey1rkt-cmyk
+
+EMAIL
+anuragpandey1rkt@gmail.com
 ```
 
 ---
 
-```text id="b9q1qv"
+# `// CURRENT_OBJECTIVES`
+
+```text
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                           FUTURE QUEUE                                      ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  [01] ████████████████████  Advanced Machine Learning                      ║
+║                                                                              ║
+║  [02] █████████████████░░░  System Design                                  ║
+║                                                                              ║
+║  [03] ███████████████░░░░░  Generative AI                                  ║
+║                                                                              ║
+║  [04] ██████████████░░░░░░  Computer Vision                                ║
+║                                                                              ║
+║  [05] █████████████████░░░  Open Source                                    ║
+║                                                                              ║
+║  [06] ███████████████████░  Build Something People Use                     ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# `// CORE_PHILOSOPHY`
+
+```text
+                 ┌───────────────┐
+                 │    BUILD      │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │     BREAK     │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │     LEARN     │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │    REPEAT     │
+                 └───────┬───────┘
+                         │
+                         └──────────────► IMPROVE
+```
+
+> **I don't want to look like a developer. I want to become one.**
+
+---
+
+```text
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
-║                     ◢ SYSTEM SHUTDOWN SEQUENCE ◣                            ║
+║                         CONNECTION TERMINAL                                 ║
 ║                                                                              ║
-║       ┌────────┐      ┌────────┐      ┌────────┐      ┌────────┐            ║
-║       │  BUILD │ ───► │  BREAK │ ───► │ LEARN  │ ───► │ REPEAT │            ║
-║       └────────┘      └────────┘      └────────┘      └────────┘            ║
+║  anurag@node:~$ ./build                                                     ║
 ║                                                                              ║
-║                         CODE. BUILD. IMPACT.                                ║
+║  BUILD  →  BREAK  →  LEARN  →  REPEAT                                     ║
 ║                                                                              ║
-║                     SYSTEM STATUS :: ONLINE ●                              ║
+║  SYSTEM STATUS :: ONLINE ◉                                                  ║
+║  NEURAL LINK    :: ACTIVE                                                   ║
+║  MISSION        :: IMPACT                                                   ║
+║                                                                              ║
+║                 "CODE. BUILD. IMPACT."                                     ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <p align="center">
-  <i>◢ ANURAG.OS // HUMAN BUILD IN PROGRESS ◣</i>
+  <i>◉ ANURAG.NODE // HUMAN BUILD IN PROGRESS</i>
 </p>
