@@ -7,7 +7,7 @@
 <!-- ================================ HERO ================================= -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anuragpandey1rkt-cmyk/anuragpandey1rkt-cmyk/main/banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/buildwithanuragpandey/buildwithanuragpandey/main/banner.png" width="100%" />
 </p>
 
 <p align="center">
@@ -16,11 +16,11 @@
 
 <p align="center">
 
-<a href="https://github.com/anuragpandey1rkt-cmyk">
-<img src="https://img.shields.io/github/followers/anuragpandey1rkt-cmyk?style=for-the-badge&logo=github&label=FOLLOWERS&color=00F5FF&labelColor=0B0F19"/>
+<a href="https://github.com/buildwithanuragpandey">
+<img src="https://img.shields.io/github/followers/buildwithanuragpandey?style=for-the-badge&logo=github&label=FOLLOWERS&color=00F5FF&labelColor=0B0F19"/>
 </a>
 
-<a href="https://github.com/anuragpandey1rkt-cmyk?tab=repositories">
+<a href="https://github.com/buildwithanuragpandey?tab=repositories">
 <img src="https://img.shields.io/badge/PROJECTS-ACTIVE-9B5CFF?style=for-the-badge&labelColor=0B0F19"/>
 </a>
 
@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anuragpandey1rkt-cmyk&label=PROFILE+VISITS&color=FF4ECD&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=buildwithanuragpandey&label=PROFILE+VISITS&color=FF4ECD&style=for-the-badge" />
 </p>
 
 ---
@@ -632,13 +632,13 @@ Industry / Technology
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragpandey1rkt-cmyk&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF4ECD&currStreakLabel=00F5FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=buildwithanuragpandey&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF4ECD&currStreakLabel=00F5FF" />
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragpandey1rkt-cmyk&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=buildwithanuragpandey&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </p>
 
@@ -648,7 +648,7 @@ Industry / Technology
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/anuragpandey1rkt-cmyk/anuragpandey1rkt-cmyk/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/buildwithanuragpandey/buildwithanuragpandey/output/github-contribution-grid-snake.svg" />
 
 </p>
 
@@ -729,7 +729,7 @@ ITERATE
 <img src="https://img.shields.io/badge/GMAIL-FF4ECD?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/anuragpandey1rkt-cmyk">
+<a href="https://github.com/buildwithanuragpandey">
 <img src="https://img.shields.io/badge/GITHUB-9B5CFF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
